@@ -1,1 +1,3 @@
-# we are True Public Access
+# We are True Public Access
+## Our mission
+
