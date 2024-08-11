@@ -1,4 +1,4 @@
-# We are True Public Access
+# We are The Aviary
 ## Our mission
 To remove the barriers between the public and public information and resources. Through the creation of toolsets that empower the public to use and understand public information more meaningfully.
 
